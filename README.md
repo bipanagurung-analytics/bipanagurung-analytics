@@ -83,7 +83,6 @@ Built predictive models to identify persuadable voters and evaluate the effectiv
 ## 📫 Connect With Me
 
 - 📧 Email: bipanagurung2026@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/bipana-gurung-4bb2412b6
 - 🌍 GitHub: github.com/bipanagurung-analytics
 
 ---
